@@ -1,4 +1,6 @@
-package com.examly.springapp.controller;
+public class TaskController
+{
+    package com.examly.springapp.controller;
 
 import java.util.List;
 
@@ -64,5 +66,6 @@ public class TaskController {
   }
 
 
+}
 }
 

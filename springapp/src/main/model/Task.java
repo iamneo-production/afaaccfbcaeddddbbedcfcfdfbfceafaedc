@@ -1,4 +1,5 @@
-package com.examly.springapp.model;
+public class Task {
+    package com.examly.springapp.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -78,4 +79,5 @@ public class Task {
   public void setTaskStatus(String taskStatus) {
     this.taskStatus = taskStatus;
   }
+}
 }
